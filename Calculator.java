@@ -1,10 +1,5 @@
 package Project;
-/**
- * 
- * @author Soumyadip Chowdhury
- * @github soumyadip007
- *
- */
+
 import java.awt.EventQueue;
 
 import javax.swing.*;
